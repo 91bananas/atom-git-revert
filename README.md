@@ -1,5 +1,8 @@
 ## Git Revert package
 
+[https://atom.io/packages/atom-git-revert](https://atom.io/packages/atom-git-revert)
+
+
 Revert a file back to HEAD after you've really messed it up.
 
 
