@@ -1,7 +1,7 @@
 {
   "name": "atom-git-revert",
   "main": "./lib/git-revert",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "David Cushman",
   "description": "Revert a file back to HEAD",
   "repository": "https://github.com/91bananas/atom-git-revert",
