@@ -1,0 +1,5 @@
+'atom-text-editor.git-revert-active:not([mini])':
+    'escape': 'git-revert:close'
+
+'atom-text-editor:not([mini])':
+    'cmd-ctrl-r': 'git-revert:revert'

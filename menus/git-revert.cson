@@ -1,0 +1,14 @@
+'context-menu':
+    'atom-text-editor': [
+        {
+            'label': 'git revert'
+            'command': 'git-revert:revert'
+        }
+    ]
+
+    '.tree-view.full-menu [is="tree-view-file"].status-modified': [
+        {
+            'label': 'git revert'
+            'command': 'git-revert:revert'
+        }
+    ]
